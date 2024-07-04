@@ -69,7 +69,6 @@ Password strength: Very Strong
 - This script uses regular expressions (`re` module) to validate the password against complexity criteria.
 - Adjust the criteria or add more rules as needed by modifying the regular expressions in the functions.
 
-Feel free to use and modify this script to suit your own password validation needs!
 
 ---
 
